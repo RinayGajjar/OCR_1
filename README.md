@@ -1,2 +1,3 @@
 # OCR_1
-Noob ocr project
+exploring ocr 
+
